@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific state (schemes, breakpoints, window layout)
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Build products
+build/
+DerivedData/
+*.dSYM
+*.dSYM.zip
+*.hmap
+*.moved-aside
+
+# Swift Package Manager
+.build/
+.swiftpm/
